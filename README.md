@@ -91,7 +91,7 @@ This will serve the backend and the production-ready frontend.
 
 ## 🔗 Live Demo
 
-> _Coming soon..._
+> _https://thoughtpad.onrender.com/_
 
 ---
 
