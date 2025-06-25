@@ -100,6 +100,8 @@ This will serve the backend and the production-ready frontend.
 **Abdulhamid Abdullahi Sulaiman**  
 GitHub: [@Yaseeru](https://github.com/Yaseeru)
 
+Youtube: [@abdulhamid_a__s](https://www.youtube.com/@abdulhamid_a__s)
+
 ---
 
 ## 📃 License
